@@ -87,7 +87,7 @@ predround = round(pred,2)
 
 st.markdown("<h3 style='text-align: left;'>The prediction result of the nutritional value of plants is: </h3>",unsafe_allow_html=True)
 st.write(predround)
-st.markdown("<h5 style='text-align: center;'>Please check your input on the table </h5>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: center;'>Please check the data you have entered in the table below: </h5>", unsafe_allow_html=True)
 
 data
 
