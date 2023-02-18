@@ -36,7 +36,7 @@ def add_bg_from_local(image_file):
 add_bg_from_local('next.jpg') 
 
 
-st.markdown("<h1 style='text-align: center;'>---Plant Nutrition Prediction--- </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>--Predictions of Plant Nutrition-- </h1>", unsafe_allow_html=True)
 
 
 
@@ -85,10 +85,10 @@ predround = round(pred,2)
 
 # interpretation
 
-st.markdown("<h2 style='text-align: left;'>The Prediction of Nutrition is: </h4>",unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: left;'>The prediction result of the nutritional value of plants is: </h3>",unsafe_allow_html=True)
 st.write(predround)
 st.markdown("<h5 style='text-align: center;'>Please check your input on the table </h5>", unsafe_allow_html=True)
 
 data
 
-st.write('Predictive results from user-inputted data obtained predictions from plant nutrition values ​​are as follows :',predround, '\n These predictions can change at any time according to changes in the number of each input feature.')
+st.write(' The prediction results from the data entered by the user are as follows :',predround, '\n These predictions may change at any time according to changes in the number of each input feature.')
