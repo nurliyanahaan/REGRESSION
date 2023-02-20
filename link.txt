@@ -1,0 +1,7 @@
+LINK PRESENTATION :
+
+https://docs.google.com/presentation/d/1NQ2IZ5lN1xgNEt11iMAMgZzd73zb_8qa/edit?usp=sharing&ouid=103957721194806513901&rtpof=true&sd=true
+
+LINK DEPLOYMENT :
+
+https://nurliyanahaan-regression-app-bdkolm.streamlit.app/
