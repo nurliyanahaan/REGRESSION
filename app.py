@@ -36,7 +36,7 @@ def add_bg_from_local(image_file):
 add_bg_from_local('next.jpg') 
 
 
-st.markdown("<h1 style='text-align: center;'>--Predictions of Plant Nutrition-- </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>--Prediction of Plant Nutrition-- </h1>", unsafe_allow_html=True)
 
 
 
